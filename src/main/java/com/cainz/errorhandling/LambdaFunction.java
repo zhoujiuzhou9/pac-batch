@@ -1,4 +1,4 @@
-package com.wadhara.errorhandling;
+package com.cainz.errorhandling;
 
 import com.amazonaws.services.lambda.runtime.Context;
 import com.amazonaws.services.lambda.runtime.LambdaLogger;
@@ -10,7 +10,7 @@ import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 import org.apache.http.HttpStatus;
 
-import static com.wadhara.errorhandling.Constants.*;
+import static com.cainz.errorhandling.Constants.*;
 
 public class LambdaFunction implements RequestHandler<APIGatewayProxyRequestEvent, APIGatewayProxyResponseEvent> {
     private static final Gson gson = new GsonBuilder().setPrettyPrinting().create();

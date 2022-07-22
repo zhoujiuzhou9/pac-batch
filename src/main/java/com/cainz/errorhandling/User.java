@@ -1,4 +1,4 @@
-package com.wadhara.errorhandling;
+package com.cainz.errorhandling;
 
 public class User {
     private String username;

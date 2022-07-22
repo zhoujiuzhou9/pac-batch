@@ -1,4 +1,4 @@
-package com.wadhara.kinesis;
+package com.cainz.kinesis;
 
 public class Order {
     int orderId;

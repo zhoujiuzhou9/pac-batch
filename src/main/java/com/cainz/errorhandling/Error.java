@@ -1,4 +1,4 @@
-package com.wadhara.errorhandling;
+package com.cainz.errorhandling;
 
 public class Error {
     private String errorCode;

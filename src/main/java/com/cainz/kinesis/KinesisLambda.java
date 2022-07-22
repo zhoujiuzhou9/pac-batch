@@ -1,4 +1,4 @@
-package com.wadhara.kinesis;
+package com.cainz.kinesis;
 
 import com.amazonaws.services.lambda.runtime.Context;
 import com.amazonaws.services.lambda.runtime.LambdaLogger;

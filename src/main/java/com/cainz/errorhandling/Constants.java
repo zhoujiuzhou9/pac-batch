@@ -1,4 +1,4 @@
-package com.wadhara.errorhandling;
+package com.cainz.errorhandling;
 
 public class Constants {
     public static final String CLIENT_ERROR_CODE = "11111";
